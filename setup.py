@@ -49,7 +49,7 @@ def find_version(fname):
 
 setup(
     name='robobrowser',
-    version=find_version('robobrowser/__init__.py'),
+    version='0.5.3',
     description='Your friendly neighborhood web scraper',
     author='Joshua Carp',
     author_email='jm.carp@gmail.com',
